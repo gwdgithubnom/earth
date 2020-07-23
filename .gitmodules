@@ -1,3 +1,6 @@
 [submodule "spring-framework"]
 	path = spring-framework
 	url = git@github.com:spring-projects/spring-framework.git
+[submodule "presto"]
+	path = presto
+	url = git@github.com:prestosql/presto.git
